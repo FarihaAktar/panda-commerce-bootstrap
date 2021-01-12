@@ -1,0 +1,32 @@
+.section-1{
+    
+    background:#fceae8 ;
+}
+/* section-2  */
+.categories img{
+    width: 100px;
+}
+
+/* last section  */
+.last-section{
+    height: 300px;
+    margin-top: 100px;
+    background: #fceae8;
+}
+
+/* footer  */
+footer{
+    margin-top: 90px;
+}
+footer p{
+    text-align: center;
+    font-size: .8rem;
+}
+/* utilities  */
+.highlight{
+    color: #ff1e76;
+}
+.btn-customize{
+    color: white !important;
+    background-image: linear-gradient(180deg,#ff6da7,#ff2178);
+}
